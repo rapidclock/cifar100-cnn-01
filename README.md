@@ -11,3 +11,7 @@ Data from [Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsk
 - After Training for 100 epochs we get ~ 44 % Accuracy on the validation(20% of the training data) and Test Set.
 - Weights are saved and so is the model, so as to skip training from scratch.
 - Has another model(Model_A) which is a much more deeper network, but that yields only ~30% accuracy after 45 epochs of training.
+
+### Confusion Matrix with Model_B after 100 epochs:
+
+![](http://i63.tinypic.com/28rcrrb.jpg)
